@@ -1,0 +1,27 @@
+myanswers
+1. What is a code repository (often also called version control system) used for?
+A code repository of a type of log that can save different types of documents relating to - All source code (program) Related documents Local or Online repositories Source code version control. There are 2 forms of this repository. The other one would mainly be designated for an online based code repository. This would store Bitbucket, Github, and Google Code
+2. Why is it advantageous to use a code repository? 
+Because it allows students and users to store away information and also acts a logbook and record for all the documents, without it become lost
+3. Describe the different “layers” of Software that exist on a typical computer and explain why there are different layers of software. 
+Hardware  system software application software  User
+The hardware is where all the instructions are created and converted into information that is used to program something. Once the information is created it is then used in the system software to convert the instructions into commands that the programs are then able to read and user to make the user use the program. Application software is usually the programs that are install on the computer by the user, in which can sometimes be used by user, application software usually get the information from the system software to program into the acts it is meant to be doing.
+4. Describe what an algorithm is and explain why it is a useful “tool” to translate from a human level problem (we can think of) to a computer program. 
+An algorithm is a step by step presentation of what the program has be instructed to do, this tool is usually used when a program something and the computer is unable to understand the instruction as they are unable to understand the way humans set instructions.
+5. Write an algorithm that describes how to make scrambled eggs, try to use control words, like IF, WHEN, UNTIL, WHILE, WAIT, AND, OR.
+Get egg 
+Get pan and heat 
+Wait 2 mins while an is heating
+Get egg and crack into pan
+Wait 2mins until egg is white
+Get spatula and scrap egg off pan
+Mix egg around 
+Take pan off heat
+Place egg out of pan
+
+
+
+6. Is Idle (the Python language shell) an Interpreter or an Compiler or both? Explain your answer.
+
+Idle is both an interpreter as it runs through scripts and along the way also executes them which makes it and interpreter. Which makes it evaluate the commands to use it to run the program.
+
